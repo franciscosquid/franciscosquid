@@ -19,6 +19,6 @@ I am a Full Stack Web Developer, curious by nature and always looking for new ch
 
 ## Languages and Tools:
 [![Francisco GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscosquid&theme=github_dark)](https://github.com/franciscosquid/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscosquid&layout=compact&theme=github_dark)](https://github.com/franciscosquid/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asqgk&layout=compact&theme=github_dark)](https://github.com/asqgk/github-readme-stats)
 
 [Website](#) - https://my-portfolio-francisco.vercel.app/ <br>
